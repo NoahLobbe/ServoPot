@@ -8,6 +8,6 @@ Simple project of a SG90 Servo controlled by a Potentiometer input, made for Yea
 - wires
 
 ### Code Note(s)
-Smoothing code for servos I found from **James Bruton**:
+Smoothing code for the servo I found from **James Bruton**:
 - https://www.youtube.com/watch?v=jsXolwJskKM
 - https://github.com/XRobots/ServoSmoothing/blob/main/code/simple/simple.ino
