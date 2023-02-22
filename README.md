@@ -1,7 +1,7 @@
 # ServoPot
 Simple project of a SG90 Servo controlled by a Potentiometer input, made for Year 12 Robotics.
 
-## Materials/Components:
+### Materials/Components:
 - Arduino Uno
 - SG90 Servo
 - Potentiometer
@@ -13,4 +13,5 @@ Smoothing code for the servo I found from **James Bruton**:
 - https://github.com/XRobots/ServoSmoothing/blob/main/code/simple/simple.ino
 
 
-###Fritzing (/servopot fritzing.png)
+###Fritzing 
+Image (servopot fritzing.png)
