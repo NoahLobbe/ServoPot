@@ -13,5 +13,5 @@ Smoothing code for the servo I found from **James Bruton**:
 - https://github.com/XRobots/ServoSmoothing/blob/main/code/simple/simple.ino
 
 
-###Fritzing 
-Image (servopot fritzing.png)
+### Fritzing 
+Image (ServoPot/servopot fritzing.png)
