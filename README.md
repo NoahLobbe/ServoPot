@@ -11,3 +11,6 @@ Simple project of a SG90 Servo controlled by a Potentiometer input, made for Yea
 Smoothing code for the servo I found from **James Bruton**:
 - https://www.youtube.com/watch?v=jsXolwJskKM
 - https://github.com/XRobots/ServoSmoothing/blob/main/code/simple/simple.ino
+
+
+###Fritzing (/servopot fritzing.png)
