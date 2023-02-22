@@ -1,5 +1,6 @@
 # ServoPot
 Simple project of a SG90 Servo controlled by a Potentiometer input, made for Year 12 Robotics.
+[Video](https://youtu.be/hiKAeLHZ_Uw)
 
 ### Materials/Components:
 - Arduino Uno
