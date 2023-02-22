@@ -14,4 +14,4 @@ Smoothing code for the servo I found from **James Bruton**:
 
 
 ### Fritzing 
-[Image] (ServoPot/servopot fritzing.png)
+[Image (ServoPot/servopot fritzing.png)]
