@@ -15,3 +15,4 @@ Smoothing code for the servo I found from **James Bruton**:
 
 ### Fritzing 
 [Image](servopot fritzing.png)
+![servopot fritzing](https://user-images.githubusercontent.com/115848968/220778947-439252ad-5e48-4165-9199-2a6e903e156f.png)
