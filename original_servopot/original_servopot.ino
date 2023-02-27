@@ -2,7 +2,7 @@
 
 //Set pins
 #define SERVO_PIN 2
-#define POT_PIN A0 //pot is short for ‘potentiometer’, a variable resistor
+#define POT_PIN A0 //pot is short for ‘potentiometer’
 
 //Make Servo Object
 Servo MyServo;
