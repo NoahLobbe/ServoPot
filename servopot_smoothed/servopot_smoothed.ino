@@ -1,6 +1,6 @@
 #include <Servo.h> //import servo library
 
-//Set pins
+//Set pin variables
 #define SERVO_PIN 2
 #define POT_PIN A0
 
