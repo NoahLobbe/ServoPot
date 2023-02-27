@@ -5,7 +5,7 @@ Simple project of a SG90 Servo controlled by a Potentiometer input, made for Yea
 ### Materials/Components:
 - Arduino Uno
 - SG90 Servo
-- Potentiometer
+- Potentiometer (pot)
 - wires
 
 ### Code Note(s)
