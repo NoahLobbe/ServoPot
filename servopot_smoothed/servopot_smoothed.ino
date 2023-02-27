@@ -16,6 +16,7 @@ float prev_smoothed_angle;
 void setup()
 {
   //tell the Arduino what is connected to it
+  //eg. output on SERVO_PIN, and input on POT_PIN
   MyServo.attach(SERVO_PIN);
   pinMode(POT_PIN, INPUT);
 }
