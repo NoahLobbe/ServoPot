@@ -2,7 +2,7 @@
 
 //Set pins
 #define SERVO_PIN 2
-#define POT_PIN A0
+#define POT_PIN A0 //pot is short for ‘potentiometer’, a variable resistor
 
 //Make Servo Object
 Servo MyServo;
@@ -13,6 +13,7 @@ uint16_t pot_value;
 void setup()
 {
   //tell the Arduino what is connected to it
+  //eg. output on SERVO_PIN, and input on POT_PIN
   MyServo.attach(SERVO_PIN);
   pinMode(POT_PIN, INPUT);
 }
