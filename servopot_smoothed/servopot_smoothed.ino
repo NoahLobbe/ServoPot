@@ -35,6 +35,6 @@ void loop()
   //update prev_smoothed_angle
   prev_smoothed_angle = smoothed_angle;
 
-  //Tell the servo to move to the angle
+  //Tell the servo to move to the new smoothed angle
   MyServo.write(smoothed_angle); 
 }
